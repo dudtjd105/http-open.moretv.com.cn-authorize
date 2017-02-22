@@ -1,0 +1,1 @@
+# http-open.moretv.com.cn-authorize
